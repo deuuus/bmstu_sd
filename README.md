@@ -1,6 +1,5 @@
 # bmstu_sd
-
-Software design BMSTU 2022
+BMSTU Software design 2022 course
 
 ## Лекция №4. 28.03.2022. Тема: архитектура.
 
