@@ -35,4 +35,3 @@
 ### 7. ER-диаграмма сущностей
 
 ![er](https://user-images.githubusercontent.com/60873270/162637147-669dbd55-feeb-40c4-aa9a-eb7cc7ca39cb.png)
-
