@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/polina/sem_06/bmstu_sd/labs'
+docker run --name=policl_db -e POSTGRES_PASSWORD='qwerty' -p 5436:5432 -d --rm postgres
+make: Leaving directory '/home/polina/sem_06/bmstu_sd/labs'
+ 

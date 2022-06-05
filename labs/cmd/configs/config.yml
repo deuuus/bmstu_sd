@@ -1,0 +1,6 @@
+db:
+    username: "mysql"
+    host: "localhost"
+    port: "5436"
+    dbname: "mysql"
+    sslmode: "disable"
